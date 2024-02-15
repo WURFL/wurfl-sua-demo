@@ -1,7 +1,7 @@
 # wurfl-sua-demo
 Detect OpenRTB's Structured UA (sua) using the WURFL API
 
-This example accompanies the [Update on Structured User Agent in OpenRTB](https://www.scientiamobile.com/blog/) blog post. It demonstrates device detection using ScientiaMobile's WURFL API with OpenRTB's Structure UA (sua) object.
+This example accompanies the [Update on Structured User Agent in OpenRTB](https://www.scientiamobile.com/using-structured-user-agent-from-real-time-bidding-for-device-detection/) blog post. It demonstrates device detection using ScientiaMobile's WURFL API with OpenRTB's Structure UA (sua) object.
 
 ## Requirements
 
