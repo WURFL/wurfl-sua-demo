@@ -7,7 +7,7 @@ This example accompanies the [Update on Structured User Agent in OpenRTB](https:
 
 * Java 8 or higher
 * WURFL OnSite API for Java license
-* `wurfl.xml`  (WURFL Snapshot)
+* `wurfl.xml`  ([WURFL Snapshot](https://docs.scientiamobile.com/guides/wurfl-snapshot-generator))
 * maven (with access ScientiaMobile's Private Maven Repository already [configured](https://docs.scientiamobile.com/documentation/onsite/onsite-java-api#maven))
 
 The complete documentation for the WURFL OnSite API for Java is available [here](https://docs.scientiamobile.com/documentation/onsite/onsite-java-api).
